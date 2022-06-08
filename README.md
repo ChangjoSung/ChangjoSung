@@ -14,7 +14,7 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
 <details>
   <summary><b>🏆 Awards and Honors</b></summary>
   <ul>
-    <li>2022-1 Sungkyul University VR/AR Game Competition 1st Place - <a href = "https://github.com/Team-NRE/Monster-Ground---Unity-3D-FPS-Game">Monster Ground </a></li>
+    <li>2022-1 Sungkyul University VR/AR Game Competition 1st Place - <a href = "https://github.com/Team-NRE/Monster-Ground---Unity-3D-Action-Game">Monster Ground </a></li>
   </ul>
 </details>
 
