@@ -27,6 +27,11 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
         Researcher, Xicom Lab, SKU.
       </a>
     </li>
+    <li>
+      <a href="http://datareality.kr/" target="_blank">
+        DataReality Inc, Company specializing in VR/AR/XR, Member of Unity S/W Development Team, 2024-03 ~ 2024-12
+      </a>
+    </li>
   </ul>
 </details>
 
