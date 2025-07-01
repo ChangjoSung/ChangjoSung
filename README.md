@@ -40,7 +40,7 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
     </li>
     <li>
       <a href="http://refind.kr/" target="_blank">
-        Refine Inc.
+        REFIND Inc.
       </a><br>
         🏢 Company specializing in musculoskeletal healthcare<br>
         🧑🏻‍💻 Technical Support Team for Unity S/W Content Development<br>
