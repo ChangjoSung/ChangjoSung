@@ -34,7 +34,8 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
         DataReality Inc.
       </a><br>
         🏢 Company specializing in VR/AR/XR<br>
-        🧑🏻‍💻 Member of Unity S/W Development Team
+        🧑🏻‍💻 Member of Unity S/W Development Team<br>
+        📅 2024/03 ~ 2024/12/24
       </a>
     </li>
     <li>
@@ -42,7 +43,8 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
         Refine Inc.
       </a><br>
         🏢 Company specializing in musculoskeletal healthcare<br>
-        🧑🏻‍💻 Technical Support Team for Unity S/W Content Development
+        🧑🏻‍💻 Technical Support Team for Unity S/W Content Development<br>
+        📅 2024/12/26 ~ing
       </a>
     </li>
   </ul>
