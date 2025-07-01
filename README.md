@@ -30,7 +30,7 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
     <li>
       <a href="http://datareality.kr/" target="_blank">
         DataReality Inc
-      </a>
+      </a></br>
         🏢 Company specializing in VR/AR/XR</br>
         🧑🏻‍💻 Member of Unity S/W Development Team
       </a>
