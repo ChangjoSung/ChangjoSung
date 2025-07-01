@@ -23,7 +23,7 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
   <summary><b>✔ Careers</b></summary>
   <ul>
     <li>
-      <a href="http://xicomlab.re.kr/" target="_blank">
+      <a href="https://github.com/xicomlab" target="_blank">
         Xicom Lab
       </a><br>
       🏫 Sungkyul University (SKU)<br>
