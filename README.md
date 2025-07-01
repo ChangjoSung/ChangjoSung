@@ -26,7 +26,7 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
       <a href="http://xicomlab.re.kr/" target="_blank">
         Xicom Lab
       </a><br>
-      🏫 Sungkyul University (SKU)
+      🏫 Sungkyul University (SKU)<br>
       🧑🏻‍💻 Head of the Research Lab
     </li>
     <li>
@@ -35,6 +35,14 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
       </a><br>
         🏢 Company specializing in VR/AR/XR<br>
         🧑🏻‍💻 Member of Unity S/W Development Team
+      </a>
+    </li>
+    <li>
+      <a href="http://refind.kr/" target="_blank">
+        Refine Inc.
+      </a><br>
+        🏢 Company specializing in musculoskeletal healthcare<br>
+        🧑🏻‍💻 Technical Support Team for Unity S/W Content Development
       </a>
     </li>
   </ul>
