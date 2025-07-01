@@ -29,7 +29,9 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
     </li>
     <li>
       <a href="http://datareality.kr/" target="_blank">
-        DataReality Inc, Company specializing in VR/AR/XR, Member of Unity S/W Development Team, 2024-03 ~ 2024-12
+        (24/03 ~ 24/12) DataReality Inc
+        Company specializing in VR/AR/XR 
+        Member of Unity S/W Development Team
       </a>
     </li>
   </ul>
