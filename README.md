@@ -24,14 +24,16 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
   <ul>
     <li>
       <a href="http://xicomlab.re.kr/" target="_blank">
-        Researcher, Xicom Lab, SKU.
-      </a>
+        Xicom Lab
+      </a><br>
+      🏫 Sungkyul University (SKU)
+      🧑🏻‍💻 Head of the Research Lab
     </li>
     <li>
       <a href="http://datareality.kr/" target="_blank">
-        DataReality Inc
-      </a></br>
-        🏢 Company specializing in VR/AR/XR</br>
+        DataReality Inc.
+      </a><br>
+        🏢 Company specializing in VR/AR/XR<br>
         🧑🏻‍💻 Member of Unity S/W Development Team
       </a>
     </li>
