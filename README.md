@@ -44,7 +44,16 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
       </a><br>
         🏢 Company specializing in musculoskeletal healthcare<br>
         🧑🏻‍💻 Technical Support Team for Unity S/W Content Development<br>
-        📅 2024/12/26 ~ing
+        📅 2024/12/26 ~ 2025/12/07
+      </a>
+    </li>
+    <li>
+      <a href="http://" target="_blank">
+        AROTech Inc.
+      </a><br>
+        🏢 Company specializing in Supporting Game Software Development and Management<br>
+        🧑🏻‍💻 Member of Unity Client Development Team<br>
+        📅 2025/12/15 ~ ing
       </a>
     </li>
   </ul>
