@@ -1,19 +1,25 @@
 ### Hi there 👋
 Good day! I am Changjo Sung who is interested in Game Programming from South Korea.
-
 > If you want to contact me, please leave me a message!
-> 
-
 <p>
-  <a href="https://unity.com" target="_blank"><img src="https://img.shields.io/badge/unity3d-black?style=flat-square&logo=unity&logoColor=white"/></a>
   <a href="https://github.com/ChangjoSung/" target="_blank"><img src="https://img.shields.io/badge/ChangjoSung-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="mailto:tjdckdwh@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjdckdwh@naver.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@tjdckdwh/series" target="_blank"><img src="https://img.shields.io/badge/velog.io-@tjdckdwh?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 
+### 🛠 Tech Stack
+<p>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/unity3d-black?style=flat-square&logo=unity&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"/></a>
+</p>
+
+### 📊 GitHub Stats
 ![ChangjoSung's stats](https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung)
 
+### 🌱 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChangjoSung&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 <details>
   <summary><b>🏆 Awards and Honors</b></summary>
