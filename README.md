@@ -10,7 +10,7 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
   <a href="https://velog.io/@tjdckdwh/series" target="_blank"><img src="https://img.shields.io/badge/velog.io-@tjdckdwh?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 
-![ChangjoSung's stats](https://github-readme-stats.vercel.app/api?username=ChangjoSung)
+![ChangjoSung's stats](https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung)
 
 <details>
   <summary><b>🏆 Awards and Honors</b></summary>
