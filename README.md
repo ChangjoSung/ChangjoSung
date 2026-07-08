@@ -14,7 +14,9 @@ Good day! I am Changjo Sung who is interested in Game Programming from South Kor
 </p>
 
 ### 📊 GitHub Stats
-![ChangjoSung's stats](https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung)
+<p>
+  <img src="https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung&theme=tokyonight&show_icons=true&count_private=true&hide=contribs"/>
+</p>
 
 ### 🌱 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChangjoSung&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
