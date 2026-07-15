@@ -24,8 +24,6 @@
   <img src="https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide=contribs"/>
 </p>
 
-<br />
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=🌱%20Contribution%20Graph&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&reversal=false"/>
@@ -33,8 +31,6 @@
 <br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChangjoSung&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
 
 ---
 
@@ -49,8 +45,6 @@
     height="300"
   />
 </a>
-
-<br />
 
 ---
 
