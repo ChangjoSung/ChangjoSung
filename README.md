@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20Changjo%20Sung%20🍀&fontAlignY=50&fontAlign=50&fontSize=35&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20Changjo%20Sung%20🍀&fontAlignY=50&fontAlign=50&fontSize=35&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=3"/>
 
 <br />
 
@@ -16,17 +16,17 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=📊%20GitHub%20Stats&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=📊%20GitHub%20Stats&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=3&reversal=false"/>
 
 <br />
 
 <p>
-  <img src="https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide=contribs"/>
+  <img src="https://github-readme-stats-chi-blue.vercel.app/api?username=ChangjoSung&count_private=true&theme=gruvbox_light&show_icons=true&include_all_commits=true&hide=contribs"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=🌱%20Contribution%20Graph&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=🌱%20Contribution%20Graph&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=3&reversal=false"/>
 
 <br />
 
@@ -34,7 +34,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=🐣%20Contribution%20Git%20Animals&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=🐣%20Contribution%20Git%20Animals&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=3&reversal=false"/>
   
 <br />
 
@@ -48,11 +48,11 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=📫%20Connect%20With%20Me&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=📫%20Connect%20With%20Me&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=3&reversal=false"/>
   
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=COCOCO&center=true&vCenter=true&width=1200&lines=If+you+want+to+contact+me,+please+leave+me+a+message!👇
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=808080&center=true&vCenter=true&width=1200&lines=If+you+want+to+contact+me,+please+leave+me+a+message!👇
 )](https://git.io/typing-svg)
 
 <br />
