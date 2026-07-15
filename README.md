@@ -11,9 +11,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=social&logo=GitHub)](https://github.com/ChangjoSung)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=social&logo=notion)](https://sungchangjo.notion.site)
 [![Velog](https://img.shields.io/badge/Velog-000000?style=social&logo=velog)](https://velog.io/@tjdckdwh)
-[![Unity](https://img.shields.io/badge/unity3d-000000?style=social&logo=unity)](https://unity.com)
-[![Python](https://img.shields.io/badge/python-000000?style=social&logo=python)](https://www.python.org)
-[![Claude](https://img.shields.io/badge/claude-000000?style=social&logo=claude)](https://www.claude.com)
+[![Unity](https://img.shields.io/badge/Unity3d-000000?style=social&logo=unity)](https://unity.com)
+[![Python](https://img.shields.io/badge/Python-000000?style=social&logo=python)](https://www.python.org)
+[![Claude](https://img.shields.io/badge/Claude-000000?style=social&logo=claude)](https://www.claude.com)
 
 ---
 
