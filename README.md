@@ -18,6 +18,24 @@
 
 ---
 
+<div class="card card-sm bg-base-200 max-w-60 shadow">
+  <figure class="hover-gallery">
+    <img src="https://img.daisyui.com/images/stock/daisyui-hat-1.webp" />
+    <img src="https://img.daisyui.com/images/stock/daisyui-hat-2.webp" />
+    <img src="https://img.daisyui.com/images/stock/daisyui-hat-3.webp" />
+    <img src="https://img.daisyui.com/images/stock/daisyui-hat-4.webp" />
+  </figure>
+  <div class="card-body">
+    <h2 class="card-title flex justify-between">
+      daisyUI Hat
+      <span class="font-normal">$25</span>
+    </h2>
+    <p>High Quality classic cap hat with stitch logo</p>
+  </div>
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=📊%20GitHub%20Stats&fontAlignY=50&fontAlign=50&fontSize=25&textBg=false&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=3&reversal=false"/>
 
 <br />
