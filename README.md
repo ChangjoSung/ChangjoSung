@@ -12,10 +12,10 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=social&logo=notion)](https://sungchangjo.notion.site/)
 [![Notion](https://img.shields.io/badge/Youtube-000000?style=social&logo=youtube)](https://www.youtube.com/@%EC%B0%BD%EC%A1%B0-d7y)
 [![Velog](https://img.shields.io/badge/Velog-000000?style=social&logo=velog)](https://velog.io/@tjdckdwh)
+<br />
 [![Unity](https://img.shields.io/badge/Unity3d-000000?style=social&logo=unity)](https://unity.com)
 [![Python](https://img.shields.io/badge/Python-000000?style=social&logo=python)](https://www.python.org)
 [![Claude](https://img.shields.io/badge/Claude-000000?style=social&logo=claude)](https://www.claude.com)
-<!-- Codex icon: Lobe Icons @lobehub/icons-static-svg 1.94.0 (MIT) -->
 [![Codex](./assets/badges/codex.svg)](https://openai.com/codex)
 
 ---
